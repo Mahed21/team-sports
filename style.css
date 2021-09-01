@@ -1,0 +1,14 @@
+body
+{
+    background-color: #05220b;
+}
+h2, p
+{
+  font-weight: bolder;
+  color:white;
+}
+.fas,.far
+{
+    color:white;
+    width: 50px;
+}
